@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+The Goal Is To Unite People Who Want To Unite And To Create A Safe Culture That’s Going To Benefit The Members Of The Society.
 <!--
 **theculturesociety/theculturesociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
